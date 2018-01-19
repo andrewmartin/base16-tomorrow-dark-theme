@@ -8,7 +8,7 @@
     "dark",
     "syntax"
   ],
-  "repository": "https://github.com/andrewmartin/base16-tomorrow-dark-theme",
+  "repository": "git@github.com:andrewmartin/base16-tomorrow-dark-theme.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.49.0"
